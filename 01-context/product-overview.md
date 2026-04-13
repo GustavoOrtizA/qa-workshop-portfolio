@@ -20,7 +20,7 @@ La plataforma genera para el negocio una mejor rentabilidad,permite brindar una 
 
 ## Funcionalidades principales
 - Consultar productos.
-- Insert de nuevos productos. a
+- Insert de nuevos productos.
 - Actualizar stock.
 - Reservar y agendar atención médica veterinaria por categoría y costos
 - Configuración de notificaciones y avisos offline
